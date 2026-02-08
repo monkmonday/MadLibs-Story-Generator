@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 adjective1 = input("Enter an adjective: ")
 adjective2 = input("Enter another adjective: ") 
 animal1 = input("Enter an animal: ")
@@ -14,7 +13,7 @@ print(f"He {verb1} {adverb1} through the large tunnel that led to its {adjective
 print(f"I was {adjective4}!")
 
 print("The end.")
-=======
+
 adjective1 = input("Enter an adjective: ")
 adjective2 = input("Enter another adjective: ") 
 animal1 = input("Enter an animal: ")
@@ -29,4 +28,4 @@ print(f"I saw a {adjective2} {animal1} jumping up and down in its tree.")
 print(f"He {verb1} {adverb1} through the large tunnel that led to its {adjective3} {noun1}.")
 print(f"I was {adjective4}!")
 
->>>>>>> 660a9a7ad00776cc261ac1f017e7bcde584754f1
+
